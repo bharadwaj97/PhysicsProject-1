@@ -1,6 +1,6 @@
 # Instruction for the Gameplay
 
-Pess A for the Bullet to Traverse Leftside
+<sub>Pess A for the Bullet to Traverse Leftside</sub>
 Pess D for the Bullet to Traverse Rightside
 Pess W for the Bullet to Traverse Forward
 Pess S for the Bullet to Traverse Backward
